@@ -2,8 +2,6 @@
 
 <p>My previous experience in service has led me to be a passionate advocate for community and technological equity as a software engineer. I have a background and deep interest in machine learning which has fueled my constant desire to learn and develop new applications. </p>
 
-- You can find my portfolio at [https://grahampatton.netlify.app/](https://grahampatton.netlify.app/)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
