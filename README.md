@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Graham</h1>
 
-<p>My previous experience in service has led me to be a passionate advocate for community and technological equity as a software engineer. I have a background and deep interest in machine learning which has fueled my constant desire to learn and develop new applications. </p>
+<p>My previous experience in service has led me to be a passionate advocate for community and technological equity as a software engineer. My constant desire to learn and develop new applications has lead to my current work in data science and machine learning.</p>
 
 
 <h3 align="left">Connect with me:</h3>
